@@ -26,6 +26,7 @@ namespace ConsoleApp1
                 {
                     routerDb.Serialize(stream);
                 }
+
             }
             else
             {
